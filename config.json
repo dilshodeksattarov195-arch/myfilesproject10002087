@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersync",
+        "uuid": 9124364,
+        "checksum": "jw8zw"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
